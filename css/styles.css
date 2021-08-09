@@ -1,0 +1,16 @@
+/* 
+ body{
+    background-color:#ffffff;
+    color: #000; ;
+    .list{
+    list-style: none;
+    }
+    .logo{
+    color: #000;
+    }
+    .site-nav.link:hover,
+    .site-nav.link:focus{
+    color: #000;
+}
+/* header */
+
